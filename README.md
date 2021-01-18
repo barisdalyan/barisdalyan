@@ -1,5 +1,5 @@
 
-Hi there. It's Barış.
+Hi there. This is Barış.
 
 I'm second year student at Pamukkale University with Computer Engineering major.<br>
 Trying to improve my abilities on Java and its technologies. 
