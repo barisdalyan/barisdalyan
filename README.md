@@ -4,7 +4,8 @@ Hi there. This is Barış.
 I'm second year student at Pamukkale University with Computer Engineering major.<br>
 Trying to improve my abilities on Java and its technologies. 
 
-I believe to achieve success we need a path built on a solid basis. Otherwise, you waste your time. So, I decided to write for building this basis.
+I believe to achieve success we need a path built on a solid basis. Otherwise, you waste your time.<br> 
+So, I decided to write for building this basis.
 
 
 <h4 align="center">Learning and Using:</h4>  
