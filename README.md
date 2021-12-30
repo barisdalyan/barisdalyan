@@ -1,7 +1,7 @@
 
 Hi there. This is Barış.
 
-I'm second year student at Pamukkale University with Computer Engineering major.<br>
+I'm third year student at Pamukkale University with Computer Engineering major.<br>
 Trying to improve my abilities on Java and its technologies. 
 
 I believe to achieve success we need a path built on a solid basis. Otherwise, you waste your time.<br> 
@@ -30,5 +30,3 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bar
 - [Ortam Kurulumu ve Hello Spring Örneği](https://medium.com/kodcular/ortam-kurulumu-ve-hello-spring-%C3%B6rne%C4%9Fi-9b88816e3c67)
 - [Temel Spring Framework Eğitimi](https://barisdalyane.medium.com/temel-spring-framework-e%C4%9Fitimi-58a1801beadf)
 - [ORM (Object Relational Mapping) Nedir?](https://barisdalyane.medium.com/orm-object-relational-mapping-nedir-3b915911b694)
-
-You can contact me at: barisdalyane@gmail.com
