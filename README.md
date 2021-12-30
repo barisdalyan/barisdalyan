@@ -8,14 +8,18 @@ I believe to achieve success we need a path built on a solid basis. Otherwise, y
 So, I decided to write for building this basis.
 
 
-<h4 align="center">Learning and Using:</h4>  
+<h4 align="center">Learning and Using:</h4>
 <p align="center">
+<img align="center" 
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="@barisdalyan" height="30" width="40" />
+<img align="center" 
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apachemaven.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
