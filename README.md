@@ -1,29 +1,34 @@
 
-Hi there. This is Barış.
+Hi there,
 
-I'm third year student at Pamukkale University with Computer Engineering major.<br>
-Trying to improve my abilities on Java and its technologies. 
+I'm a student at Pamukkale University with Computer Engineering major.<br>
+Trying to improve my abilities on JavaScript and its technologies.<br>
+I also enjoy building technical and fundamental analysis Telegram bots for financial markets. 
 
-I believe to achieve success we need a path built on a solid basis. Otherwise, you waste your time.<br> 
-So, I decided to write for building this basis.
+I believe that a path built on a solid foundation is necessary to achieve success.<br>
+Therefore, I've decided to build this foundation by writing about the topics I've learned.
+
+During this process, I switched from Java to JavaScript technologies.
 
 
 <h4 align="center">Learning and Using:</h4>
 <p align="center">
 <img align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="@barisdalyan" height="50" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apachemaven.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
+<img align="center" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="@barisdalyan" height="30" width="40" />
 </p>
 
 
