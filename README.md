@@ -18,7 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="@barisdalyan" height="50" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="@barisdalyan" height="35" width="40" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
