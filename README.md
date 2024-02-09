@@ -22,8 +22,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
-<img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
