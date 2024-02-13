@@ -2,7 +2,7 @@
 Hi there,
 
 I'm a student at Pamukkale University with Computer Engineering major.<br>
-Trying to improve my abilities on JavaScript and its technologies.<br>
+Trying to improve my abilities in JavaScript and its technologies.<br>
 I also enjoy building technical and fundamental analysis Telegram bots for financial markets. 
 
 I believe that a path built on a solid foundation is necessary to achieve success.<br>
