@@ -1,32 +1,35 @@
 
 Hi there,
 
-I'm a student at Pamukkale University with Computer Engineering major.<br>
-Trying to improve my abilities in JavaScript and its technologies.<br>
-I also enjoy building technical and fundamental analysis Telegram bots for financial markets. 
+As a full-stack developer, I am continuously working to enhance my expertise in<br>
+both frontend and backend technologies, with a particular focus on Java and JavaScript.
 
-I believe that a path built on a solid foundation is necessary to achieve success.<br>
-Therefore, I've decided to build this foundation by writing about the topics I've learned.
+I believe that a solid foundation is essential for achieving success.<br>
+To build this foundation, I have committed to writing about the topics I've learned.
 
-During this process, I switched from Java to JavaScript technologies.
+I also enjoy building Telegram bots for technical and fundamental analysis in financial markets.
 
 
 <h4 align="center">Learning and Using:</h4>
 <p align="center">
 <img align="center" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="@barisdalyan" height="45" />
+<img align="center" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="@barisdalyan" height="45" />        
+<img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="@barisdalyan" height="30" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="@barisdalyan" height="35" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="@barisdalyan" height="32" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="@barisdalyan" height="35" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="@barisdalyan" height="35" width="40" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="@barisdalyan" height="30" />
 </p>
 
 
