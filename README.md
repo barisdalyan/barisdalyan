@@ -17,11 +17,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="@barisdalyan" height="45" />        
 <img align="center" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="@barisdalyan" height="30" width="40" />
+<img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="@barisdalyan" height="30" width="40" />
+<img align="center" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="@barisdalyan" height="30" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="@barisdalyan" height="32" width="40" />
+<img align="center" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="@barisdalyan" height="40" width="45" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="@barisdalyan" height="35" width="40" />
 <img align="center" 
