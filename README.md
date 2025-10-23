@@ -1,8 +1,7 @@
 
 Hi there,
 
-As a full-stack developer, I am continuously working to enhance my expertise in<br>
-both frontend and backend technologies, with a particular focus on Java and JavaScript.
+I’m a Backend Engineer deepening my expertise in Java and Go technologies.<br>
 
 I believe that a solid foundation is essential for achieving success.<br>
 To build this foundation, I have committed to writing about the topics I've learned.
@@ -17,23 +16,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="@barisdalyan" height="45" />        
 <img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="@barisdalyan" height="45" width="45" />
+<img align="center" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-original.svg" alt="@barisdalyan" height="55" width="55" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="@barisdalyan" height="30" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="@barisdalyan" height="30" width="40" />
-<img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="@barisdalyan" height="30" />
-<img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="@barisdalyan" height="32" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="@barisdalyan" height="32" width="35" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="@barisdalyan" height="40" width="45" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="@barisdalyan" height="35" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="@barisdalyan" height="40" width="40" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="@barisdalyan" height="35" width="40" />
 <img align="center" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="@barisdalyan" height="30" width="40" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="@barisdalyan" height="40" width="35" />
 <img align="center" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="@barisdalyan" height="30" />
 </p>
