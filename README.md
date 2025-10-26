@@ -1,10 +1,10 @@
 
 Hi there,
 
-I’m a Backend Engineer deepening my expertise in Java and Go technologies.<br>
+I’m a Backend Engineer deepening my expertise in Java and Go ecosystems.<br>
 
 I believe that a solid foundation is essential for achieving success.<br>
-To build this foundation, I have committed to writing about the topics I've learned.
+To build this foundation, I’m committed to writing about what I learn.
 
 I also enjoy building Telegram bots for technical and fundamental analysis in financial markets.
 
